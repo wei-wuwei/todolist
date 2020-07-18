@@ -1,0 +1,113 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    height: 84px;
+    line-height: 84px;
+    border-bottom: 2px solid red;
+}
+.registerarea {
+    height: 522px;
+    margin-top: 10px;
+    border: 1px solid pink;
+}
+.reg_hd {
+    height: 42px;
+    background-color: gray;
+}
+.reg_hd_l {
+    float: left;
+}
+.reg_hd_l h3 {
+    line-height: 42px;
+    font-size: 18px;
+    margin-left: 5px;
+}
+.reg_hd_r {
+    float: right;
+    line-height: 42px;
+    margin-right: 5px;
+}
+.reg_bd {
+    width: 600px;
+    margin:50px auto 0;
+}
+.reg_bd ul li {
+    margin-bottom: 20px;
+}
+.reg_bd ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+
+}
+.reg_bd ul li .inp {
+    width: 242px;
+    height: 37px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.error_icon {
+    display: inline-block;
+    /* 让图片与文字对齐 */
+    vertical-align: middle;
+    margin-top: -2px;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png) no-repeat;
+}
+.success_icon {
+    display: inline-block;
+    /* 让图片与文字对齐 */
+    vertical-align: middle;
+    margin-top: -2px;
+    width: 20px;
+    height: 20px;
+    background: url(../images/success.png) no-repeat;
+}
+.safe {
+    margin-left: 165px;
+}
+.safe em {
+    /* display: inline-block;
+    width: 20px; */
+    /* background-color: pink; */
+    padding: 0 12px;
+    color: #fff;
+}
+.ruo {
+    background-color: red;
+}
+.zhong {
+    background-color: green;
+}
+.qiang {
+    background-color: orange;
+}
+.agree {
+    padding-left: 95px;
+}
+.agree input {
+    vertical-align: middle;
+}
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: red;
+    margin-left: 115px;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 20px;
+
+} 
+.mod_copyright {
+    text-align: center;
+    margin-top: 10px;
+}
+.links {
+    margin-bottom: 20px;
+}
+.copyright {
+    line-height: 20px;
+}
